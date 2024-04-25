@@ -1,0 +1,63 @@
+* {
+  background-color: beige;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.buttons {
+  font-size: 25px;
+  margin: 35px;
+  padding: 32px 16px;
+  background-color: beige;
+  text-align: center;
+}
+
+h1 {
+  margin: 20px;
+  text-align: center;
+}
+
+#btn1, #btn2, #btn3, #btn4, #btn5, #btn6, #btn7, #btn8, #btn9 {
+  padding: 32px 16px;
+  border-radius: 10%;
+  margin: 10px 10px;
+  cursor: pointer;
+  background-color: lightgray;
+  width: 50%;
+  border: none;
+}
+
+#btn1:hover {
+  background-color: lightcyan;
+}
+
+#btn2:hover {
+  background-color: lightcyan; 
+}
+
+#btn3:hover {
+  background-color: lightcyan; 
+}
+
+#btn4:hover {
+  background-color: lightcyan;
+}
+
+#btn5:hover {
+  background-color: lightcyan;
+}
+
+#btn6:hover {
+  background-color: lightcyan;
+}
+
+#btn7:hover {
+  background-color: lightcyan;
+}
+
+#btn8:hover {
+  background-color: lightcyan;
+}
+
+#btn9:hover {
+  background-color: lightcyan; 
+}
